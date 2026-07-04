@@ -1,5 +1,5 @@
 {
-  ["Agudo Mágico 3 Slow"] = {
+  ["Test1"] = {
     ["New"] = false,
     ["SecondMusic"] = true,
     ["categoryid"] = 2,
@@ -10,12 +10,12 @@
     ["music"] = "rbxassetid://89982271618860",
     ["music2"] = "rbxassetid://0",
     ["musicspeed"] = 0.6,
-    ["name"] = "[⭐] Agudo Mágico 3 (NEW)",
+    ["name"] = "[⭐] Test1",
     ["speed"] = 1,
     ["timeposition"] = 4.8
     },
-  ["Six Seven"] = {
-		name = "[😺] Six Seven",
+  ["Test2"] = {
+		name = "[😺] Test2",
 		NewVersion = true,
 		id = 121479128659305,
 		idr6 = 139249282941165,
