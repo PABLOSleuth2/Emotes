@@ -28,5 +28,19 @@
     ["name"] = "[🇰🇿] Sadraddin baqyt",
     ["speed"] = 1,
     ["timeposition"] = 2
-    }
+    }, 
+["Аяғымның Жүні"] = {
+    ["New"] = true,
+    ["SecondMusic"] = false,
+    ["categoryid"] = 1,
+    ["color"] = Color3.fromRGB(0, 255, 247),
+    ["endposition"] = 15.3,
+    ["id"] = 81809932909615,
+    ["idr6"] = 87877831304254,
+    ["music"] = "rbxassetid://119192691980151",
+    ["musicspeed"] = 0.8,
+    ["name"] = "[🇰🇿] Аяғымның Жүні",
+    ["speed"] = 1,
+    ["timeposition"] = 2
+  }
 }
