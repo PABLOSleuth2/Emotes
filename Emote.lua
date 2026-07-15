@@ -56,5 +56,19 @@
     ["name"] = "[🇰🇿] Эх, Қарындас",
     ["speed"] = 1,
     ["timeposition"] = 2
+  }, 
+["БОЛ ЖАНЫМДА"] = {
+    ["New"] = true,
+    ["SecondMusic"] = false,
+    ["categoryid"] = 1,
+    ["color"] = Color3.fromRGB(0, 255, 247),
+    ["endposition"] = 41.6,
+    ["id"] = 112931882473990,
+    ["idr6"] = 103285896715662,
+    ["music"] = "rbxassetid://119262610932614",
+    ["musicspeed"] = 0.8,
+    ["name"] = "[🇰🇿] Бол жанымда",
+    ["speed"] = 1,
+    ["timeposition"] = 2
   }
 }
