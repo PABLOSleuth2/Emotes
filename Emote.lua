@@ -42,5 +42,19 @@
     ["name"] = "[🇰🇿] Аяғымның Жүні",
     ["speed"] = 1,
     ["timeposition"] = 2
+  }, 
+["эх қарындас"] = {
+    ["New"] = true,
+    ["SecondMusic"] = false,
+    ["categoryid"] = 1,
+    ["color"] = Color3.fromRGB(0, 255, 247),
+    ["endposition"] = 80,
+    ["id"] = 97644870879648,
+    ["idr6"] = 104131866999057,
+    ["music"] = "rbxassetid://74222142254180",
+    ["musicspeed"] = 0.8,
+    ["name"] = "[🇰🇿] Эх, Қарындас",
+    ["speed"] = 1,
+    ["timeposition"] = 2
   }
 }
