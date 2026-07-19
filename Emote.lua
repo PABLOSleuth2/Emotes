@@ -70,5 +70,19 @@
     ["name"] = "[🇰🇿] Бол жанымда",
     ["speed"] = 1,
     ["timeposition"] = 2
+  }, 
+["Ол сен емес"] = {
+    ["New"] = true,
+    ["SecondMusic"] = false,
+    ["categoryid"] = 1,
+    ["color"] = Color3.fromRGB(0, 255, 247),
+    ["endposition"] = 71.2,
+    ["id"] = 131507580963734,
+    ["idr6"] = 99360589324291,
+    ["music"] = "rbxassetid://103197263962722",
+    ["musicspeed"] = 0.8,
+    ["name"] = "[🇰🇿] Ол сен емес",
+    ["speed"] = 1,
+    ["timeposition"] = 2
   }
 }
