@@ -98,5 +98,19 @@
     ["name"] = "[🇰🇿] Ақ маржан",
     ["speed"] = 1,
     ["timeposition"] = 2
+  }, 
+["Аспанға қараймын"] = {
+    ["New"] = true,
+    ["SecondMusic"] = false,
+    ["categoryid"] = 1,
+    ["color"] = Color3.fromRGB(0, 255, 247),
+    ["endposition"] = 81.2,
+    ["id"] = 133067519683862,
+    ["idr6"] = 109641334741675,
+    ["music"] = "rbxassetid://108802216793523",
+    ["musicspeed"] = 0.7,
+    ["name"] = "[🇰🇿] Аспанға қараймын",
+    ["speed"] = 1,
+    ["timeposition"] = 2
   }
 }
