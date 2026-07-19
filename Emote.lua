@@ -84,5 +84,19 @@
     ["name"] = "[🇰🇿] Ол сен емес",
     ["speed"] = 1,
     ["timeposition"] = 2
+  }, 
+["Ақ маржан"] = {
+    ["New"] = true,
+    ["SecondMusic"] = false,
+    ["categoryid"] = 1,
+    ["color"] = Color3.fromRGB(0, 255, 247),
+    ["endposition"] = 71.4,
+    ["id"] = 134067079372130,
+    ["idr6"] = 120868791920734,
+    ["music"] = "rbxassetid://105249742543711",
+    ["musicspeed"] = 0.7,
+    ["name"] = "[🇰🇿] Ақ маржан",
+    ["speed"] = 1,
+    ["timeposition"] = 2
   }
 }
