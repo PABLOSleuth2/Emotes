@@ -128,4 +128,18 @@
 		["speed"] = 1,
 		["musicspeed"] = 0.8
 	},
+	["Көк жигули"] = {
+		["name"] = "[🇰🇿] Көк жигули",
+		["id"] = 130923609040392,
+		["idr6"] = 88271101356836,
+		["color"] = Color3.fromRGB(0, 255, 247),
+		["music"] = "rbxassetid://135569530395688",
+		["timeposition"] = 2,
+		["endposition"] = 25.6,
+		["New"] = true,
+		["SecondMusic"] = false,
+		["categoryid"] = 1,
+		["speed"] = 1,
+		["musicspeed"] = 0.8
+	},
 }
