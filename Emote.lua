@@ -142,4 +142,18 @@
 		["speed"] = 1,
 		["musicspeed"] = 0.8
 	},
+	["Қазақ полициясы"] = {
+		["name"] = "[🇰🇿] Қазақ полициясы",
+		["id"] = 74285107998410,
+		["idr6"] = 109047096548155,
+		["color"] = Color3.fromRGB(0, 255, 247),
+		["music"] = "rbxassetid://98112452335764",
+		["timeposition"] = 2,
+		["endposition"] = 39.6,
+		["New"] = true,
+		["SecondMusic"] = false,
+		["categoryid"] = 1,
+		["speed"] = 1,
+		["musicspeed"] = 0.8
+	},
 }
