@@ -1,6 +1,6 @@
 {
   ["Not my problem"] = {
-    ["New"] = true,
+    ["New"] = false,
     ["SecondMusic"] = true,
     ["categoryid"] = 2,
     ["color"] = Color3.fromRGB(8, 0, 255),
@@ -15,7 +15,7 @@
     ["timeposition"] = 2
     },
   ["sadraddin-baqyt"] = {
-    ["New"] = true,
+    ["New"] = false,
     ["SecondMusic"] = true,
     ["categoryid"] = 1,
     ["color"] = Color3.fromRGB(0, 255, 247),
@@ -30,7 +30,7 @@
     ["timeposition"] = 2
     }, 
 ["Аяғымның Жүні"] = {
-    ["New"] = true,
+    ["New"] = false,
     ["SecondMusic"] = false,
     ["categoryid"] = 1,
     ["color"] = Color3.fromRGB(0, 255, 247),
@@ -44,7 +44,7 @@
     ["timeposition"] = 2
   }, 
 ["эх қарындас"] = {
-    ["New"] = true,
+    ["New"] = false,
     ["SecondMusic"] = false,
     ["categoryid"] = 1,
     ["color"] = Color3.fromRGB(0, 255, 247),
@@ -58,7 +58,7 @@
     ["timeposition"] = 2
   }, 
 ["БОЛ ЖАНЫМДА"] = {
-    ["New"] = true,
+    ["New"] = false,
     ["SecondMusic"] = false,
     ["categoryid"] = 1,
     ["color"] = Color3.fromRGB(0, 255, 247),
@@ -72,7 +72,7 @@
     ["timeposition"] = 2
   }, 
 ["Ол сен емес"] = {
-    ["New"] = true,
+    ["New"] = false,
     ["SecondMusic"] = false,
     ["categoryid"] = 1,
     ["color"] = Color3.fromRGB(0, 255, 247),
@@ -86,7 +86,7 @@
     ["timeposition"] = 2
   }, 
 ["Ақ маржан"] = {
-    ["New"] = true,
+    ["New"] = false,
     ["SecondMusic"] = false,
     ["categoryid"] = 1,
     ["color"] = Color3.fromRGB(0, 255, 247),
@@ -100,7 +100,7 @@
     ["timeposition"] = 2
   }, 
 ["Аспанға қараймын"] = {
-    ["New"] = true,
+    ["New"] = false,
     ["SecondMusic"] = false,
     ["categoryid"] = 1,
     ["color"] = Color3.fromRGB(0, 255, 247),
