@@ -112,5 +112,20 @@
     ["name"] = "[🇰🇿] Аспанға қараймын",
     ["speed"] = 1,
     ["timeposition"] = 2
-  }
+  },
+	["Honey pie"] = {
+		["name"] = "[🐝] Honey pie",
+		["id"] = 93030329824175,
+		["idr6"] = 134877655052216,
+		["color"] = Color3.fromRGB(255, 217, 0),
+		["music"] = "rbxassetid://135569530395688",
+		["music2"] = "rbxassetid://108895196565994",
+		["timeposition"] = 2,
+		["endposition"] = 16.1,
+		["New"] = true,
+		["SecondMusic"] = true,
+		["categoryid"] = 2,
+		["speed"] = 1,
+		["musicspeed"] = 0.8
+	},
 }
