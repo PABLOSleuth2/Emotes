@@ -133,7 +133,7 @@
 		["id"] = 130923609040392,
 		["idr6"] = 88271101356836,
 		["color"] = Color3.fromRGB(0, 255, 247),
-		["music"] = "rbxassetid://135569530395688",
+		["music"] = "rbxassetid://139812633600453",
 		["timeposition"] = 2,
 		["endposition"] = 25.6,
 		["New"] = true,
