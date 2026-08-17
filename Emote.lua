@@ -143,6 +143,21 @@
 		["speed"] = 1,
 		["musicspeed"] = 0.8
 	},
+	["Ela peida dance"] = {
+		["name"] = "[💀] Ela peida dance",
+		["id"] = 109151678265605,
+		["idr6"] = 92611527912709,
+		["color"] = Color3.fromRGB(3, 40, 252),
+		["music"] = "rbxassetid://130736428032388",
+		["music2"] = "rbxassetid://81037879917206",
+		["timeposition"] = 2,
+		["endposition"] = 39.6,
+		["New"] = true,
+		["SecondMusic"] = true,
+		["categoryid"] = 2,
+		["speed"] = 1,
+		["musicspeed"] = 0.8
+	},
 	["Көк жигули"] = {
 		["name"] = "[🇰🇿] Көк жигули",
 		["id"] = 130923609040392,
@@ -165,7 +180,7 @@
 		["music"] = "rbxassetid://98112452335764",
 		["timeposition"] = 2,
 		["endposition"] = 39.6,
-		["New"] = true,
+		["New"] = false,
 		["SecondMusic"] = false,
 		["categoryid"] = 1,
 		["speed"] = 1,
