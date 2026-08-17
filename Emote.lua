@@ -128,6 +128,21 @@
 		["speed"] = 1,
 		["musicspeed"] = 0.8
 	},
+	["Once upon a time"] = {
+		["name"] = "[🇨🇳] Once upon a time",
+		["id"] = 110553340682162,
+		["idr6"] = 128555173681309,
+		["color"] = Color3.fromRGB(255, 13, 13),
+		["music"] = "rbxassetid://133907963989435",
+		["music2"] = "rbxassetid://93154581113587",
+		["timeposition"] = 2,
+		["endposition"] = 32.1,
+		["New"] = true,
+		["SecondMusic"] = true,
+		["categoryid"] = 2,
+		["speed"] = 1,
+		["musicspeed"] = 0.8
+	},
 	["Көк жигули"] = {
 		["name"] = "[🇰🇿] Көк жигули",
 		["id"] = 130923609040392,
@@ -136,7 +151,7 @@
 		["music"] = "rbxassetid://139812633600453",
 		["timeposition"] = 2,
 		["endposition"] = 25.6,
-		["New"] = true,
+		["New"] = false,
 		["SecondMusic"] = false,
 		["categoryid"] = 1,
 		["speed"] = 1,
