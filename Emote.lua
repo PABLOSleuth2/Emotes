@@ -191,7 +191,7 @@
 	["Be alive"] = {
 		["name"] = "[💀] Be alive",
 		["id"] = 139062443836718,
-		[idr6] = 75803000482371,
+		["idr6"] = 75803000482371,
 		["color"] = Color3.fromRGB(16,0,250),
 		["music"] = "rbxassetid://110577141540779",
 		["music2"] = "rbxassetid://100416966578894",
