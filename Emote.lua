@@ -158,6 +158,21 @@
 		["speed"] = 1,
 		["musicspeed"] = 0.8
 	},
+	["Cute Nekoya"] = {
+		["name"] = "[🇰🇷] Cute Nekoya",
+		["id"] = 104422748607643,
+		["idr6"] = 75544539972225,
+		["color"] = Color3.fromRGB(255,255,255),
+		["music"] = "rbxassetid://127982524590789",
+		["music2"] = "rbxassetid://85735746535570",
+		["timeposition"] = 2,
+		["endposition"] = 24.8,
+		["New"] = true,
+		["SecondMusic"] = true,
+		["categoryid"] = 2,
+		["speed"] = 1,
+		["musicspeed"] = 0.8
+	},
 	["Көк жигули"] = {
 		["name"] = "[🇰🇿] Көк жигули",
 		["id"] = 130923609040392,
