@@ -188,6 +188,21 @@
 		["speed"] = 1,
 		["musicspeed"] = 0.8
 	},
+	["Be alive"] = {
+		["name"] = "[💀] Be alive",
+		["id"] = 139062443836718,
+		[idr6] = 75803000482371,
+		["color"] = Color3.fromRGB(16,0,250),
+		["music"] = "rbxassetid://110577141540779",
+		["music2"] = "rbxassetid://100416966578894",
+		["timeposition"] = 2,
+		["endposition"] = 23.6,
+		["New"] = true,
+		["SecondMusic"] = true,
+		["categoryid"] = 2,
+		["speed"] = 1,
+		["musicspeed"] = 0.8
+	},
 	["Көк жигули"] = {
 		["name"] = "[🇰🇿] Көк жигули",
 		["id"] = 130923609040392,
