@@ -173,6 +173,21 @@
 		["speed"] = 1,
 		["musicspeed"] = 0.8
 	},
+	["Montagem Dimension"] = {
+		["name"] = "[💀] Montagem Dimension",
+		["id"] = 128807957040123,
+		["idr6"] = 134530242020609,
+		["color"] = Color3.fromRGB(16,0,250),
+		["music"] = "rbxassetid://134229838372611",
+		["music2"] = "rbxassetid://117768551800021",
+		["timeposition"] = 2,
+		["endposition"] = 48,
+		["New"] = true,
+		["SecondMusic"] = true,
+		["categoryid"] = 2,
+		["speed"] = 1,
+		["musicspeed"] = 0.8
+	},
 	["Көк жигули"] = {
 		["name"] = "[🇰🇿] Көк жигули",
 		["id"] = 130923609040392,
