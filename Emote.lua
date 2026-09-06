@@ -158,6 +158,21 @@
 		["speed"] = 1,
 		["musicspeed"] = 0.8
 	},
+	["There she goes"] = {
+		["name"] = "[😏] There she goes",
+		["id"] = 128143603094154,
+		["idr6"] = 133731570922735,
+		["color"] = Color3.fromRGB(4, 206, 255),
+		["music"] = "rbxassetid://106138208989763",
+		["music2"] = "rbxassetid://124322171425980",
+		["timeposition"] = 2,
+		["endposition"] = 16.9,
+		["New"] = true,
+		["SecondMusic"] = true,
+		["categoryid"] = 2,
+		["speed"] = 1,
+		["musicspeed"] = 0.8
+	},
 	["Cute Nekoya"] = {
 		["name"] = "[🇰🇷] Cute Nekoya",
 		["id"] = 104422748607643,
