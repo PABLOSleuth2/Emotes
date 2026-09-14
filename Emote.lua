@@ -173,6 +173,21 @@
 		["speed"] = 1,
 		["musicspeed"] = 0.8
 	},
+	["The bass trend"] = {
+		name = "[🌟] The bass trend",
+		id = 98858102603318,
+		idr6 = 133025819254198,
+		color = Color3.fromRGB(255, 0, 255),
+		music = "rbxassetid://" .. 116220626338973,
+		music2 = "rbxassetid://" .. 73424577286844,
+		timeposition = 2,
+		endposition = 23.8,
+		New = true,
+		SecondMusic = true,
+		categoryid = 2,
+		speed = 1,
+		musicspeed = 0.8,
+	},
 	["Cute Nekoya"] = {
 		["name"] = "[🇰🇷] Cute Nekoya",
 		["id"] = 104422748607643,
