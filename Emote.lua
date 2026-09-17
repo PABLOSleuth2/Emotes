@@ -173,6 +173,21 @@
 		["speed"] = 1,
 		["musicspeed"] = 0.8
 	},
+	["Я тебя могну"] = {
+		name = "[🤫] Я тебя могну",
+		id = 73169143537329,
+		idr6 = 129145106029308,
+		color = Color3.fromRGB(255, 64, 0),
+		music = "rbxassetid://" .. 119836603456980,
+		music2 = "rbxassetid://" .. 118832345316724,
+		timeposition = 2,
+		endposition = 11,
+		New = true,
+		SecondMusic = true,
+		categoryid = 2,
+		speed = 1,
+		musicspeed = 0.8,
+	},
 	["The bass trend"] = {
 		name = "[🌟] The bass trend",
 		id = 98858102603318,
