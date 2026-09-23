@@ -262,6 +262,21 @@
 		["speed"] = 1,
 		["musicspeed"] = 0.8
 	},
+	["TOYOKI"] = {
+		name = "[🇨🇳] TOYOKI",
+		id = 114912639422575,
+		idr6 = 94134014652516,
+		color = Color3.fromRGB(255, 38, 0),
+		music = "rbxassetid://" .. 79217819601347,
+		music2 = "rbxassetid://" .. 118317082006555,
+		timeposition = 2,
+		endposition = 28.5,
+		New = true,
+		SecondMusic = true,
+		categoryid = 2,
+		speed = 1,
+		musicspeed = 0.8,
+	},
 	["Қазақ полициясы"] = {
 		["name"] = "[🇰🇿] Қазақ полициясы",
 		["id"] = 74285107998410,
