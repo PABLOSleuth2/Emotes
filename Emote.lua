@@ -344,7 +344,7 @@
 		music = "rbxassetid://" .. 77475896107449,
 		music2 = "rbxassetid://" .. 105313882007306,
 		timeposition = 2,
-		endposition = 12,
+		endposition = 11.6,
 		New = true,
 		SecondMusic = true,
 		categoryid = 2,
