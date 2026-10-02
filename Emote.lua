@@ -336,4 +336,19 @@
 		["speed"] = 1,
 		["musicspeed"] = 0.8
 	},
+	["Scuba"] = {
+		name = "[😎] Scuba",
+		id = 123761889433592,
+		idr6 = 126480553517552,
+		color = Color3.fromRGB(241, 44, 255),
+		music = "rbxassetid://" .. 77475896107449,
+		music2 = "rbxassetid://" .. 105313882007306,
+		timeposition = 2,
+		endposition = 12,
+		New = true,
+		SecondMusic = true,
+		categoryid = 2,
+		speed = 1,
+		musicspeed = 0.8,
+	},
 }
